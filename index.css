@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#212f3d;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+h1{
+    margin-left: 100px;
+}
+
+#btn{
+    height: 40px;
+    width: 70px;
+}
+#form{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+#curr{
+    color: blue;
+}
+#name{
+    height: 30px;
+    width: 30em;
+}
+#email{
+    height: 30px;
+    width: 30em;
+}
+#subject{
+    height: 50px;
+    width: 30em;
+}
+#message{
+    height: 150px;
+    width: 40em;
+}
